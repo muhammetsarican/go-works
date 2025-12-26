@@ -17,4 +17,8 @@ func main() {
 	fmt.Println(names)
 	names[1] = "Mehmet"
 	fmt.Println(names[0:3])
+
+	var slicedNames = []string{"Muhammet"}
+	slicedNames = append(slicedNames, "Mehmet")
+	fmt.Println(slicedNames)
 }
