@@ -1,3 +1,3 @@
-module go-work-module
+module my-module
 
 go 1.22.0
