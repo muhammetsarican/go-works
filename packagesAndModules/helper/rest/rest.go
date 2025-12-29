@@ -2,6 +2,6 @@ package rest
 
 import "fmt"
 
-func Rest() {
+func rest() {
 	fmt.Println("helper1/rest")
 }

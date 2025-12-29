@@ -13,7 +13,8 @@ import (
 func main() {
 	fmt.Println("packages and modules")
 	helper.Helper1()
-	rest.Rest()
+
+	// rest.Rest() //made private
 	rest.Rest2()
 
 	helper2.Helper2()
