@@ -3,9 +3,6 @@
 ## Variables
 ![alt text](image.png)
 
-## Arrays
-Go to folder: https://github.com/muhammetsarican/go-works/tree/main/arrays
-
 ## Slices
 Go to folder: https://github.com/muhammetsarican/go-works/tree/main/arraysSlices
 
@@ -32,3 +29,18 @@ Go to folder: https://github.com/muhammetsarican/go-works/tree/main/variables
 
 ## Pointers
 Go to folder: https://github.com/muhammetsarican/go-works/tree/main/pointers
+
+## Error Handling
+Go to folder: https://github.com/muhammetsarican/go-works/tree/main/errorHandling
+
+## Interfaces
+Go to folder: https://github.com/muhammetsarican/go-works/tree/main/interfaces
+
+## Defer and Panic
+Go to folder: https://github.com/muhammetsarican/go-works/tree/main/deferAndPanic
+
+## Function Literals
+Go to folder: https://github.com/muhammetsarican/go-works/tree/main/functionLiterals
+
+## Packages and Modules
+Go to folder: https://github.com/muhammetsarican/go-works/tree/main/packagesAndModules
